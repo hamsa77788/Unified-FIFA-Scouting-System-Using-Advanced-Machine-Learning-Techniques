@@ -1,0 +1,2 @@
+# Unified-FIFA-Scouting-System-Using-Advanced-Machine-Learning-Techniques
+A unified machine learning scouting system for predicting FIFA player market value and performance tier using advanced algorithms. The project applies hyperparameter tuning, cross-validation, and ensemble learning techniques to improve accuracy, reduce overfitting, and ensure stable performance across different subsets of player data.
