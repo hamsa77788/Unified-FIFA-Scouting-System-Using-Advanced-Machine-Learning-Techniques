@@ -1,4 +1,13 @@
 # Unified FIFA Scouting System
+
+
+## Note
+
+**⚠️ GitHub may not render this notebook due to its size and complexity.**
+
+Please use the **Raw** option or **download** the notebook to view the complete project.
+
+
 ## Overview
 
 This project presents a *unified machine learning* scouting system designed to predict FIFA player market value and performance tier using FIFA player data. The work is a continuation of previous assignments, starting with player price prediction in Assignment 1 and expanding in Assignment 2 to include performance prediction and baseline machine learning models.
